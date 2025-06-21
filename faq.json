@@ -1,0 +1,22 @@
+{
+  "hours": {
+    "synonyms": ["hours", "open", "closing time", "what time", "timing"],
+    "response": "🕘 We are open from 9 AM to 5 PM, Monday to Friday."
+  },
+  "location": {
+    "synonyms": ["location", "where", "address", "located"],
+    "response": "📍 You’ll find us at 123 Chat Street, Codetown."
+  },
+  "contact": {
+    "synonyms": ["contact", "email", "phone", "reach you", "call"],
+    "response": "📞 Contact us at support@example.com or call 123-456-7890."
+  },
+  "services": {
+    "synonyms": ["services", "offer", "provide", "what do you do"],
+    "response": "🛠️ We offer chatbot development, training, and consulting."
+  },
+  "price": {
+    "synonyms": ["price", "cost", "charges", "how much", "rate"],
+    "response": "💰 Our pricing depends on the project. Contact us for a quote."
+  }
+}
